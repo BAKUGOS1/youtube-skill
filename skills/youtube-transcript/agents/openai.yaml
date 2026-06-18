@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Transcript"
+  short_description: "Fetch clean, timestamped YouTube transcripts"
+  default_prompt: "Use $youtube-transcript to retrieve and normalize the transcript for this YouTube video."
