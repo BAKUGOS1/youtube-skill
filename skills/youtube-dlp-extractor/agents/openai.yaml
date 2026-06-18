@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube yt-dlp Extractor"
+  short_description: "Extract permitted YouTube media and metadata"
+  default_prompt: "Use $youtube-dlp-extractor to inspect and extract permitted media, metadata, subtitles, or audio from this URL."
