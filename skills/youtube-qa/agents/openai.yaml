@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Q&A"
+  short_description: "Answer questions using YouTube transcript evidence"
+  default_prompt: "Use $youtube-qa to answer my questions from this YouTube video with timestamped evidence."
