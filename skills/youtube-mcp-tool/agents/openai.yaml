@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube MCP Tool"
+  short_description: "Build and operate safe YouTube MCP tools"
+  default_prompt: "Use $youtube-mcp-tool to configure or build a YouTube transcript and metadata MCP integration."
