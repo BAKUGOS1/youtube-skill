@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Summarizer"
+  short_description: "Create grounded summaries from video transcripts"
+  default_prompt: "Use $youtube-summarizer to create a structured, timestamped summary of this YouTube video."
