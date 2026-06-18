@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Research"
+  short_description: "Research videos and synthesize cited findings"
+  default_prompt: "Use $youtube-research to compare these YouTube videos and produce a source-grounded research brief."
